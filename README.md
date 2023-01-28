@@ -12,7 +12,7 @@ Links and short descriptions of my CV's projects sorted order as mentioned in CV
 > *A more in depth explanation of implementation written in report [malloc() and free() report](https://github.com/xypp3/xv6-riscv-tinker/blob/riscv/OS_malloc_cwk.pdf)*
 
 ## general utility scripts for manipulating .pgm images
-> [.pgm utilities repo](todo)  
+> [.pgm utilities repo](https://github.com/xypp3/pgm_utils)  
 > Implementing a selection of tools such as converting from .pgm ASCII to .pgm binary files, checking if two images are identical, reducing an images storage size, splitting and combining multiple .pgm images from one or to one image.
 >	 
 > This implementation was done according to the [.pgm spec](https://netpbm.sourceforge.net/doc/pgm.html) and was written in C and tested using bash scripts for little endian CPUs
