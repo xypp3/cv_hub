@@ -9,7 +9,7 @@ Links and short descriptions of my CV's projects sorted order as mentioned in CV
 > [xv6 malloc() and free() repo](https://github.com/xypp3/xv6-riscv-tinker/blob/mem_manage/os/user/memory_management.c)  
 > Using C to implement malloc and free() using the best fit method and free block merging to limit external and internal fragmentation.  
 >   
-> *A more in depth explanation of implementation written in report [malloc() and free() report]([todo](https://github.com/xypp3/xv6-riscv-tinker/blob/riscv/OS_malloc_cwk.pdf))*
+> *A more in depth explanation of implementation written in report [malloc() and free() report](https://github.com/xypp3/xv6-riscv-tinker/blob/riscv/OS_malloc_cwk.pdf)*
 
 ## general utility scripts for manipulating .pgm images
 > [.pgm utilities repo](todo)  
