@@ -2,7 +2,7 @@
 Links and short descriptions of my CV's projects sorted order as mentioned in CV
 
 ## Java desktop wordle clone
-> [wordle clone repo](todo)  
+> [wordle clone repo](https://github.com/xypp3/wordle_clone/tree/main)  
 > Showcasing OOP, programming fundamentals and file manipulation in the Java language
 
 ## xv6 implementation of malloc() and free()
