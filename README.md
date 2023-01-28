@@ -22,6 +22,6 @@ Links and short descriptions of my CV's projects sorted order as mentioned in CV
 > For a month I worked in a group to design and create a video editing project using C++ and Qt. In my groups I promoted the use of branches, git commit message conventions and was the primary help for sorting merge conflicts
 
 ## Sciant internship, booking meeting room tool
-> [booking meeting room tool repo](todo)  
+> [booking meeting room tool repo](https://github.com/xypp3/BookingMeetingRoom)  
 > Worked on an internal tool to help track the bookings of the office's meeting rooms. The front end was written with ReactJS, and Redux to handle the updates in state. The front end was linked to the back end using webhooks and REST API calls to allow for an individual client’s changes to be propagated to all clients asynchronously. The server was written in Node.js which was hooked up to a PostgreSQL database to store the data.
 
