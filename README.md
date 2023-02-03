@@ -3,7 +3,7 @@ Links and short descriptions of my CV's projects sorted order as mentioned in CV
 
 ## Java desktop wordle clone
 > [wordle clone repo](https://github.com/xypp3/wordle_clone/tree/main)  
-> Showcasing OOP, programming fundamentals and file manipulation in the Java language
+> Showcasing OOP, programming fundamentals and file manipulation in Java.
 
 ## xv6 implementation of malloc() and free()
 > [xv6 malloc() and free() repo](https://github.com/xypp3/xv6-riscv-tinker/blob/mem_manage/os/user/memory_management.c)  
@@ -15,11 +15,11 @@ Links and short descriptions of my CV's projects sorted order as mentioned in CV
 > [.pgm utilities repo](https://github.com/xypp3/pgm_utils)  
 > Implementing a selection of tools such as converting from .pgm ASCII to .pgm binary files, checking if two images are identical, reducing an images storage size, splitting and combining multiple .pgm images from one or to one image.
 >	 
-> This implementation was done according to the [.pgm spec](https://netpbm.sourceforge.net/doc/pgm.html) and was written in C and tested using bash scripts for little endian CPUs
+> This implementation was done according to the [.pgm spec](https://netpbm.sourceforge.net/doc/pgm.html) and was written in C and tested using bash scripts for little endian CPUs.
 
 ## video editor group UI project
-> [video editor repo](todo)  
-> For a month I worked in a group to design and create a video editing project using C++ and Qt. In my groups I promoted the use of branches, git commit message conventions and was the primary help for sorting merge conflicts
+> [video editor repo](https://gitlab.com/sc21sc/uicwk2)  
+> For a month I worked in a group to design and create a video editing project using C++ and the Qt framework. In my groups I promoted the use of branches, git commit message conventions and was the primary help for sorting merge conflicts.
 
 ## Sciant internship, booking meeting room tool
 > [booking meeting room tool repo](https://github.com/xypp3/BookingMeetingRoom)  
