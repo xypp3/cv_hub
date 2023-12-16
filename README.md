@@ -11,15 +11,10 @@ Links and short descriptions of my CV's projects sorted order as mentioned in CV
 >   
 > *A more in depth explanation of implementation written in report [malloc() and free() report](https://github.com/xypp3/xv6-riscv-tinker/blob/riscv/OS_malloc_cwk.pdf)*
 
-## general utility scripts for manipulating .pgm images
-> [.pgm utilities repo](https://github.com/xypp3/pgm_utils)  
-> Implementing a selection of tools such as converting from .pgm ASCII to .pgm binary files, checking if two images are identical, reducing an images storage size, splitting and combining multiple .pgm images from one or to one image.
->	 
-> This implementation was done according to the [.pgm spec](https://netpbm.sourceforge.net/doc/pgm.html) and was written in C and tested using bash scripts for little endian CPUs.
-
-## video editor group UI project
-> [video editor repo](https://gitlab.com/sc21sc/uicwk2)  
-> For a month I worked in a group to design and create a video editing project using C++ and the Qt framework. In my groups I promoted the use of branches, git commit message conventions and was the primary help for sorting merge conflicts.
+## JACK Compiler
+> [JACK Compiler](https://github.com/xypp3/jack_compiler)
+> A compiler written in C for the JACK (Java-like) programming launguage
+> Compiler compiles JACK code into HACK assembly (assembly language from nand2tetris course)
 
 ## Sciant internship, booking meeting room tool
 > [booking meeting room tool repo](https://github.com/xypp3/BookingMeetingRoom)  
